@@ -8,4 +8,4 @@ Fake news vs Real News
 Python, Jupyter Notebook
 
 ## Data
-https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset
+Website: https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset
