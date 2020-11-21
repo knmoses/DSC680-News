@@ -11,6 +11,8 @@ Paper: "Project 2 - Milestone 4 Final.pdf"
 
 Presentation: "Project Two - Final Presentation.pdf"
 
+Jupyter Notebook Code: "Project 2 - News.ipynb"
+
 Q & A: "Project Two QA.pdf"
 
 ## Results
